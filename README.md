@@ -1,2 +1,2 @@
 # EXCEL-Sales-Dashboard
-the Superstore dataset provided was analyzed to predict ways to increase sales.
+the Superstore dataset provided was analyzed to predict a way to increase sales.
